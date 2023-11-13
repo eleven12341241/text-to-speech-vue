@@ -26,7 +26,7 @@ npm run start
 * 输入待转换的文本
 * 点击create即可
 
-![image-20231113180716691](C:\Users\17200\AppData\Roaming\Typora\typora-user-images\image-20231113180716691.png)
+![image-20231113180716691](./public/index.png)
 
 
 
